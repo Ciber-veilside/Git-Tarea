@@ -22,7 +22,7 @@ namespace ProgGitTarea.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "this is your contact page.";
 
             return View();
         }
